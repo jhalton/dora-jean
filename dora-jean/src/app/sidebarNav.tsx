@@ -10,10 +10,18 @@ const SidebarNav = () => {
     <div>
       <p>Sidebar Nav</p>
       <ol>
-        <Link href="/biography">Biography</Link>
-        <li>Stories</li>
-        <li>Photos</li>
-        <li>Playlist</li>
+        <li>
+          <Link href="/biography">Biography</Link>
+        </li>
+        <li>
+          <Link href="/stories">Stories</Link>
+        </li>
+        <li>
+          <Link href="/photos">Photos</Link>
+        </li>
+        <li>
+          <Link href="/playlist">Playlist</Link>
+        </li>
       </ol>
     </div>
   );
