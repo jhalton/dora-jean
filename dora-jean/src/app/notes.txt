@@ -1,3 +1,9 @@
 I would like to include a little history about who she was. Because mom and aunt lisa
 sent out poppies in memory of grandma, I want to have a sort of poppy theme a little bit.
 I want to find a good favicon of a little poppy or something floral
+
+
+
+
+Do I need to build a backend? Should I consider
+building a Flask backend?
